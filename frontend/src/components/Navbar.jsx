@@ -43,7 +43,7 @@ const Navbar = () => {
         <div className="p-2 rounded-full hover:bg-gray-200 cursor-pointer">
         <TbGridDots  size={'24px'} />
         </div>
-        <Avatar googleId="https://wallpapers.com/images/hd/cool-profile-picture-paper-bag-head-4co57dtwk64fb7lv.jpg" size="40" round={true} />
+        <Avatar googleId="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxh8Ud9AP5d24cCGHNjLah1cgBbfDMbh5Nuw&s" size="40" round={true} />
       </div>
     </div>
   );
